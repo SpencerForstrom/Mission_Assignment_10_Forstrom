@@ -1,0 +1,18 @@
+# Ignore Visual Studio folders
+.vs/
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore Node modules and build output
+node_modules/
+dist/
+
+# Ignore SQLite DB if needed
+*.sqlite
+
+# Ignore environment/config files
+.env
